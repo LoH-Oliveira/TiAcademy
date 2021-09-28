@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio4</title>
+<style>
+    
+    div {
+        width: 600px;
+        height: 100px;
+        border-top: 2px solid rgb(3, 3, 3);
+        border-right: 3px solid rgb(0, 0, 0);
+        border-bottom: 3px solid rgb(2, 2, 2);
+        border-left: 3px solid rgb(2, 2, 2);
+    }
+
+
+</style>
+</head>
+<body>
+    <div> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab autem sequi, temporibus, voluptas quo dolorem sint illum reiciendis deleniti porro laborum adipisci recusandae esse nam nihil ullam hic dignissimos? Quae!</div>
+</body>
+</html>
