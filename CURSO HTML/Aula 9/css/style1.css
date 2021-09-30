@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0 ;
+    border: 0;
+}
+
+div {    
+    background-image: url(../img/19289.jpg);
+    background-size: 25%;
+    background-repeat: repeat-y;
+    width: 800px;
+    height: 600px;
+    border: 3px solid black
+}
