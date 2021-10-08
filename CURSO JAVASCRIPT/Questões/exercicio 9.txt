@@ -1,0 +1,5 @@
+1. a diferença entre var, let e const é que const é uma variavel constante que mesmo atribuido outro valor, se mantém; var define uma variavel globalmente
+
+2.Acredito que Sim.
+
+3.opção c) <script src= "nomeDoArquivo,js"></script>
